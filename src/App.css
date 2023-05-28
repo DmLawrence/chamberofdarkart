@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'CREEPSTER';
+  font-style: normal;
+  font-weight: normal;
+  src: local('CREEPSTER'), url('./assets/Creepster.woff') format('woff');
+}
+
+body {
+  font-family: 'CREEPSTER';
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo-welcome {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo-welcome {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotateY(0);
+  }
+  to {
+    transform: rotateY(1turn);
+  }
+}
