@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/chamberofdarkart/static/css/main.cafd3626.css",
-    "main.js": "/chamberofdarkart/static/js/main.bc8779b5.js",
+    "main.css": "/chamberofdarkart/static/css/main.6204d660.css",
+    "main.js": "/chamberofdarkart/static/js/main.99f306fc.js",
     "static/js/787.4d546fd9.chunk.js": "/chamberofdarkart/static/js/787.4d546fd9.chunk.js",
+    "static/media/circles.png": "/chamberofdarkart/static/media/circles.bedc2cd34248197f091f.png",
     "static/media/bg-smoke.jpg": "/chamberofdarkart/static/media/bg-smoke.da3be01c93268e4c3a7b.jpg",
+    "static/media/filigree-and-name.png": "/chamberofdarkart/static/media/filigree-and-name.e12340c4f1672e24249c.png",
     "static/media/Creepster.woff": "/chamberofdarkart/static/media/Creepster.9a3bebcd6e2095fb4eca.woff",
-    "static/media/circles.png": "/chamberofdarkart/static/media/circles.720524ea83fa737b39cd.png",
-    "static/media/filigree-and-name.png": "/chamberofdarkart/static/media/filigree-and-name.3400c2863137792b4870.png",
     "index.html": "/chamberofdarkart/index.html",
-    "main.cafd3626.css.map": "/chamberofdarkart/static/css/main.cafd3626.css.map",
-    "main.bc8779b5.js.map": "/chamberofdarkart/static/js/main.bc8779b5.js.map",
+    "main.6204d660.css.map": "/chamberofdarkart/static/css/main.6204d660.css.map",
+    "main.99f306fc.js.map": "/chamberofdarkart/static/js/main.99f306fc.js.map",
     "787.4d546fd9.chunk.js.map": "/chamberofdarkart/static/js/787.4d546fd9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cafd3626.css",
-    "static/js/main.bc8779b5.js"
+    "static/css/main.6204d660.css",
+    "static/js/main.99f306fc.js"
   ]
 }
