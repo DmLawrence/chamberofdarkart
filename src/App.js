@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Welcome from './Welcome';
+import Welcome from './components/welcome/Welcome';
 import Content from './Content';
 import Scroll from './Scroll';
 import Socialmedia from './Socialmedia';

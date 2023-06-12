@@ -20,19 +20,6 @@ code {
   background-image: url(./assets/bg-smoke.jpg);
 }
 
-.logo-fixed {
-  width: 100%;
-  height: 100vh;
-  background-position: center;
-  background-size: cover;
-  background-image: url(./assets/filigree-and-name.png);
-}
-
-.logo {
-  width: 400px;
-  height: 400px;
-}
-
 a {
  color: red;
 }

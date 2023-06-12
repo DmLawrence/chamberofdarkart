@@ -1,0 +1,27 @@
+@media screen and (max-width: 30em) {
+.title {
+  font-size: 1.5rem;
+}
+
+}
+
+@media screen and (min-width: 30em) and (max-width: 45em) {
+ .title {
+  font-size: 2rem;}
+}
+
+@media screen and (min-width: 45em) and (max-width: 60em) {
+ .title {
+  font-size: 3rem;}
+}
+
+@media screen and (min-width: 60em) and (max-width: 80em) {
+ .title {
+  font-size: 3.2rem;}
+}
+
+@media screen and (min-width: 80em) {
+  .title {
+   font-size: 4rem;
+  }
+}
